@@ -6,7 +6,7 @@ Once the three values are manually entered, the system automatically calculates 
 
 ## Running
 
-!![After a Successful Calculation](Screenshot2.png)
+![After a Successful Calculation](Screenshot2.png)
 
 ## Disclaimers
 
